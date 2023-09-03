@@ -12,6 +12,9 @@ Manual Install:
 3. Type cd + the directory where you downloaded the .jar file to
 4. Type "java -jar "ConsoleToolbox.jar" "
 
+KEEP IN MIND:
+You will not be able to use the built-in update command if you use manual install!
+
 Using Installer:
 
 1. Download The "ConsoleToolboxInstaller.jar" From the latest release (Keep in mind that the installer will always download the latest version so if you get it from the version for example 1.3 and the latest version is 1.4 it will download 1.4)
