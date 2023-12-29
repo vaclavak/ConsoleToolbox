@@ -1,4 +1,32 @@
+
+[![JreRequired](https://img.shields.io/badge/JRE_Required-red)](https://www.java.com/en/download/)
+
+
+
+
+
+
 # ConsoleToolbox
+
+A set of tools that allows you to do various things in your command line.
+
+
+## Features
+
+- IP adress port scanning and other networking tools...
+- Hash Encryption (Sha256)
+- Various system tools
+- Ability to download files right from the command line
+- File Manipulation
+
+
+
+
+
+
+
+
+<!--# ConsoleToolbox
 A small toolbox of a few tools you can use in the cmd
 
 
@@ -11,6 +39,7 @@ Manual Install:
 2. Launch cmd
 3. Type cd + the directory where you downloaded the .jar file to
 4. Type "java -jar "ConsoleToolbox.jar" "
+
 
 KEEP IN MIND:
 You will not be able to use the built-in update command if you use manual install!
@@ -26,3 +55,4 @@ Using Installer:
 
 Developers:
 vaclavak - main dev
+-->
