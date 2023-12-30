@@ -55,6 +55,13 @@ KEEP IN MIND:
 If you get any errors during the installation, it doesnt have to mean that it didnt download properly, so check if it works and if it doesnt then try to look at the errors or try to contact me.
 
 
+## How to contact me
+
+If for any reason you need to contact me, you can join my discord server here:
+
+[Join](https://discord.gg/uHFJuvfqZm)
+
+
 
 
 
