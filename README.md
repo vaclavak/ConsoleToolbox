@@ -19,6 +19,10 @@ A set of tools that allows you to do various things in your command line.
 - Ability to download files right from the command line
 - File Manipulation
 
+### Instalation:
+
+
+
 
 
 
