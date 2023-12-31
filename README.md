@@ -32,7 +32,7 @@ Manual Install:
 4. Type this command:
 
 ```bash
-"java -jar "ConsoleToolbox.jar" "
+java -jar "ConsoleToolbox.jar" 
 ```
 
 WARNING:
