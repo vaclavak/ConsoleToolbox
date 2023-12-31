@@ -57,6 +57,16 @@ KEEP IN MIND:
 
 If you get any errors during the installation, it doesnt have to mean that it didnt download properly, so check if it works and if it doesnt then try to look at the errors or try to contact me.
 
+## How to update:
+
+1. Launch ConsoleToolbox
+2. Use the update command (Only in version 1.3.3 and above, wont work if you used manual install)
+
+```bash
+update
+```
+
+
 
 ## How to contact me
 
