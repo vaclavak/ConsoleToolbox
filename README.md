@@ -64,7 +64,7 @@ If for any reason you need to contact me, you can join my discord server here:
 
 [Join](https://discord.gg/uHFJuvfqZm)
 
-[Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txogyxnhdl67rwln2zt3.png)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txogyxnhdl67rwln2zt3.png)
 
 
 
