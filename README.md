@@ -29,7 +29,11 @@ Manual Install:
 1. Download The "ConsoleToolbox.jar" File from the release you want
 2. Launch cmd
 3. Go to the directory where you downloaded the file to (cd + [directory])
-4. Type "java -jar "ConsoleToolbox.jar" "
+4. Type this command:
+
+```bash
+"java -jar "ConsoleToolbox.jar" "
+```
 
 WARNING:
 You cant use the "update" command that is built in if you use manual install!
@@ -48,8 +52,13 @@ It doesnt matter from which release you download the installer, it will always d
 If you want to see additional installation info, you can do so by following these steps:
 
 1. Open your cmd
-2. Go to the directory where you downloaded the file to
-3. type " java -jar "ConsoleToolboxInstaller.jar" "
+2. Go to the directory where you downloaded the file to (cd + [directory])
+3. type this command:
+
+
+```bash
+java -jar "ConsoleToolboxInstaller.jar"
+```
 
 Now you can see the install info.
 
