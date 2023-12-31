@@ -20,6 +20,7 @@ A set of tools that allows you to do various things in your command line.
 - Various system tools
 - Ability to download files right from the command line
 - File Manipulation
+- Random password generation (You can also choose the lenght of the password)
 
 ### Instalation:
 
